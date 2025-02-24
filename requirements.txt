@@ -1,0 +1,8 @@
+SpeechRecognition
+translate
+monsterapi  
+googletrans
+pillow
+PyAudio
+pydantic
+langdetect
