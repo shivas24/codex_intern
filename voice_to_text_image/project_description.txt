@@ -1,5 +1,6 @@
 Project:
 AI-Powered Voice-to-Voice and Voice-to-Video Converter for Accessibility for differently abled persons
+
 Overview: This project aims to create an AI-powered platform that provides real-time voice-to-voice and voice-to-video translation, specifically designed to aid individuals with hearing, speech, and visual impairments. By leveraging advanced natural language processing (NLP), speech recognition, and computer vision, this tool can facilitate seamless communication for people with disabilities, enhancing their ability to interact in everyday scenarios.
 
 Key Features:
